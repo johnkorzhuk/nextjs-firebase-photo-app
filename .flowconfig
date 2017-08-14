@@ -1,0 +1,11 @@
+[ignore]
+<PROJECT_ROOT>/node_modules/styled-components/*
+<PROJECT_ROOT>/node_modules/babel-plugin-transform-react-remove-prop-types/*
+<PROJECT_ROOT>/server.js
+
+[include]
+
+[libs]
+styled-components
+
+[options]
